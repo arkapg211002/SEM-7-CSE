@@ -1,0 +1,6 @@
+1. https://www.datacamp.com/blog/classification-machine-learning
+2. https://www.geeksforgeeks.org/ml-classification-vs-regression/
+3. https://www.javatpoint.com/regression-vs-classification-in-machine-learning
+
+5. https://www.investopedia.com/terms/r/r-squared.asp
+6. https://www.analyticsvidhya.com/blog/2021/07/demystifying-the-difference-between-multi-class-and-multi-label-classification-problem-statements-in-deep-learning/
